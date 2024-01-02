@@ -1,5 +1,22 @@
+table {
+  width: 100%;
+}
 td {
   text-align: center;
-  width: 150px;
-  border: 1px solid black;
+  width: 5%;
+  border: 3px solid black;
+  font-weight: bold;
+  padding: 2px 5px;
+}
+#free-space {
+  background-color: #71bd79;
+}
+.first-row-column {
+  background-color: #cbc0f0;
+}
+.empty-cell {
+  background-color: #cb0fcd;
+}
+.web-app {
+  background-color: #4f8aaa;
 }
