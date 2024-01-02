@@ -8,6 +8,10 @@ td {
   font-weight: bold;
   padding: 2px 5px;
 }
+h1,
+h2 {
+  text-align: center;
+}
 #free-space {
   background-color: #71bd79;
 }
