@@ -23,12 +23,10 @@ header h1 {
 .to-top {
   width: 100%;
   text-align: right;
+  font-family: indie-flower;
 }
-.to-top a {
-  text-decoration: none;
-  color: black;
-  font-weight: bolder;
-  font-size: 30px;
+.to-top img {
+  width: 5%;
 }
 .a-z {
   margin: 10px 0;
