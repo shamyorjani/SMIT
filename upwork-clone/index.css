@@ -143,6 +143,15 @@ input[name="search"] {
 .right-section img {
   width: 70%;
 }
+.middle-section {
+  width: 100%;
+  margin: 40px 0;
+}
+.middle-image {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
 .bottom-section {
   width: 100%;
   margin-top: 50px;
