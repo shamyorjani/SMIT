@@ -2,6 +2,7 @@
   position: fixed;
   left: 0;
   top: 0;
+  z-index: 1;
   width: 2.5%;
   height: 100%;
   display: flex;
@@ -11,8 +12,8 @@
   background-color: #e9ecf1;
 }
 .icon {
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   margin: 10px 0;
   border-radius: 100%;
   background-color: #727272;
