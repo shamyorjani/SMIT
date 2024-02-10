@@ -1,11 +1,16 @@
-# Useful Links
+# All Websites Links
 
 ## Websites
-1. [Example Website 1](https://www.example1.com) - Description of Example Website 1.
-2. [Example Website 2](https://www.example2.com) - Description of Example Website 2.
-3. [Example Website 3](https://www.example3.com) - Description of Example Website 3.
-4. [Example Website 4](https://www.example4.com) - Description of Example Website 4.
-5. [Example Website 5](https://www.example5.com) - Description of Example Website 5.
-6. [Example Website 6](https://www.example6.com) - Description of Example Website 6.
-7. [Example Website 7](https://www.example7.com) - Description of Example Website 7.
-8. [Example Website 8](https://www.example8.com) - Description of Example Website 8.
+
+1. [Healthy Life](https://healthy-life-199112.netlify.app/) - Description of Example Website 1.
+2. [Table with CSS](https://table-with-css-199112.netlify.app/) - Description of Example Website
+3. [Periodic Table](https://www.example7.com) - Description of Example Website
+4. [ABC SCHOOL](https://abc-school.netlify.app/) - Description of Example Website 3.
+5. [Color Palettes](https://color-palettes-199112.netlify.app/) - Description of Example Website
+6. [Facebook Login](https://facebook-clone-199112.netlify.app/) - Description of Example Website
+7. [Travel TOurs TEmplate](https://travel-tours-199112.netlify.app/) - Description of Example Website 8.
+8. [WEbsite TEmplate](https://website-template-199112.netlify.app/) - Description of Example Website 8.
+9. [Upwork Clone](https://upwork-clone-199112.netlify.app/) - Description of Example Website 8.
+10. [Amazon Clone](https://amazon-clone-199112.netlify.app/) - Description of Example Website 4.
+11. [SEcond Website Template](https://second-website-template-199112.netlify.app/) - Description of Example Website 8.
+12. [SUNZINE Colorlib](https://sunzine-199112.netlify.app/) - Description of Example Website 8.
