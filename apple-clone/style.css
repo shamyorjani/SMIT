@@ -162,13 +162,13 @@ footer {
 .upper-para {
   /* width: 960px; */
   max-width: 960px;
-  min-width: 400px;
+  /* min-width: 400px; */
   flex-shrink: 1;
   margin: 0 auto;
 }
 .lower-footer-part {
   max-width: 960px;
-  min-width: 400px;
+  /* min-width: 400px; */
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -257,9 +257,9 @@ footer {
   .fifth-right-section,
   .sixth-left-section,
   .sixth-right-section {
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
-    height: 55vh;
+    /* height: 55vh; */
   }
   .second-section {
     background-image: url("./images/hero-vision-small.jpg");
@@ -284,5 +284,11 @@ footer {
   }
   .sixth-left-section {
     background-image: url("./images/old-device-small.jpg");
+  }
+  .lower-footer-part {
+    display: none;
+  }
+  .lower-inner-links a:hover {
+    text-decoration: underline;
   }
 }
