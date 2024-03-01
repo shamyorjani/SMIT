@@ -1,4 +1,38 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  width: 40px;
+}
+.profile-icon {
+  border-radius: 100vw;
+  background-color: rgb(218, 218, 218);
+  padding: 5px 10px;
+}
+.mobile-nav {
+  margin-top: 100px;
+}
+.mobile-nav-list .nav-link {
+  font-size: 1.6em;
+  color: black;
+}
+.offcanvas,
+.offcanvas-body {
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+}
+.fa-close {
+  cursor: pointer;
 }
