@@ -108,4 +108,10 @@ section {
   width: max-content;
   padding: 5px 10px;
   border-radius: 6px;
+  transition-property: background-color, color;
+  transition: 0.1s ease-in;
+}
+.github-code-btn:hover {
+  background-color: white;
+  color: black;
 }
